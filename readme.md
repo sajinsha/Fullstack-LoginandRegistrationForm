@@ -30,7 +30,7 @@ Once you have clone it, make sure to you run 'npm install' command to install al
 
 The command "psql -U postgres" is used to connect to a PostgreSQL database server using the command-line interface called "psql" and authenticating as the user "postgres".
 
-# CREATE DATABASE userlogin;
+# CREATE DATABASE loginpage;
 
 You can give the database name as your own.
 
